@@ -1,0 +1,21 @@
+# Java
+/target/
+*.class
+
+# PL/SQL
+*.log
+*.tmp
+
+# VS/IDE
+.idea/
+.vscode/
+*.iml
+
+# Week2_TDDJUnitMockito
+Week2_TDDJUnitMockito
+└── src
+    └── test
+        └── java
+            └── week2
+                └── tddjunitmockito
+                    └── MockingTest.java
